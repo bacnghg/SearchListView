@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\TestListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\TestListView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TestListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\workspace\\TestListView\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]
